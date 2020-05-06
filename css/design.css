@@ -1,0 +1,87 @@
+<style type = "text/css">
+
+#header
+{
+width : 1000px;
+height : 100px;
+background-color : blue;
+}
+
+#h1
+{
+width : 150px;
+height : 100px;
+background-size : 150px 100px;
+float : left;
+}
+
+#h2
+{
+width : 850px;
+height : 100px;
+background-color : indigo;
+float : left;
+}
+ul
+{
+	list-style-type : none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color : gray;
+}
+li
+{
+	float : left;
+}
+li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover
+{
+	background-color: orange;
+}
+
+#menu
+{
+width : 150px;
+height : 800px;
+background-color : cyan;
+float : left;
+}
+
+#content
+{
+width : 1000px;
+height : 850px;
+background-color : navy;
+background : url("nec.jpg");
+float : left;
+}
+
+body{
+background : black;
+}
+
+#comment
+{
+width :150px;
+height : 800px;
+background-color : cyan;
+float: left;
+}
+
+
+#wrapper
+{
+height : 1000px;
+width : 1000px;
+background-color : gold;
+}
+
+</style>
